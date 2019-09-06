@@ -8,10 +8,13 @@
     width: 80px;
   }
   
+  #state-input {
+    width: 200px;
+  }
+
   input {
     height: 20px;
-    width: 50px;
-    text-align: center;
+    width: 40px;
   }
   
   li {
