@@ -1,0 +1,31 @@
+.hidden {
+    display: none;
+  }
+  
+  
+  #sub-btn {
+    height: 20px;
+    width: 80px;
+  }
+  
+  input {
+    height: 20px;
+    width: 50px;
+    text-align: center;
+  }
+  
+  li {
+    padding-top: 5px;
+  }
+  
+  ul {
+    padding-top: 5px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  .park {
+    padding-bottom: 15px;
+  }
